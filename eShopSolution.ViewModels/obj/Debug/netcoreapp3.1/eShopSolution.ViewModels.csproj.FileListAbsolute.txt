@@ -1,0 +1,15 @@
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.deps.json
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.AssemblyReference.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfoInputs.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.AssemblyInfo.cs
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.CoreCompileInputs.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.ViewModels\obj\Debug\netcoreapp3.1\eShopSolution.ViewModels.csproj.CopyComplete

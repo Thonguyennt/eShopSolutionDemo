@@ -1,0 +1,10 @@
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.deps.json
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csproj.AssemblyReference.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfoInputs.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfo.cs
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csproj.CoreCompileInputs.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb

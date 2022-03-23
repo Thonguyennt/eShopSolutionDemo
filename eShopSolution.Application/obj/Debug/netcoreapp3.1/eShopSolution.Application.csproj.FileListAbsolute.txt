@@ -1,0 +1,17 @@
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.deps.json
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.AssemblyReference.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfoInputs.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfo.cs
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CoreCompileInputs.cache
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\Hoc-demo\C#\demo2\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CopyComplete
